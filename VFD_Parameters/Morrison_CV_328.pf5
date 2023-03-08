@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node>
+  <Drive Brand="1" Family="9" Config="196" MajorRev="4" MinorRev="1">
+    <Parameters>
+      <Parameter Instance="41">100</Parameter>
+      <Parameter Instance="42">100</Parameter>
+      <Parameter Instance="44">10000</Parameter>
+      <Parameter Instance="46">3</Parameter>
+      <Parameter Instance="47">3</Parameter>
+      <Parameter Instance="124">102</Parameter>
+      <Parameter Instance="128">1</Parameter>
+      <Parameter Instance="129">192</Parameter>
+      <Parameter Instance="130">168</Parameter>
+      <Parameter Instance="131">100</Parameter>
+      <Parameter Instance="132">2</Parameter>
+    </Parameters>
+    <CustomGroups>
+      <CustomGroup Instance="1">
+        <Name>Custom Group</Name>
+      </CustomGroup>
+    </CustomGroups>
+  </Drive>
+</Node>

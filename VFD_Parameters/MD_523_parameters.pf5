@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node>
+  <Drive Brand="1" Family="8" Config="199" MajorRev="3" MinorRev="1">
+    <CustomGroups>
+      <CustomGroup Instance="1">
+        <Name>Custom Group</Name>
+      </CustomGroup>
+    </CustomGroups>
+  </Drive>
+</Node>
